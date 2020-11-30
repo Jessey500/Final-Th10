@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\bin\Debug\Th10.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\bin\Debug\Th10.exe
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\bin\Debug\Th10.pdb
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\obj\Debug\Th10.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\obj\Debug\Th10.exe
+c:\users\user\documents\visual studio 2012\Projects\Th10\Th10\obj\Debug\Th10.pdb
